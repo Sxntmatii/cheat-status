@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "updated_at": "2026-05-12T18:30:00Z",
+  "system": {
+    "anticheat_active": true,
+    "maintenance": false,
+    "maintenance_msg": "",
+    "threat_level": 1,
+    "client_min_version": "2.8.1"
+  },
+  "polling": { "interval_seconds": 60 },
+  "motd": {
+    "text": "Sistema operativo. Pull, Magnet, Telekill y SpeedX99 bajo monitoreo.",
+    "color": "warning",
+    "dismissible": true
+  },
+  "features": {
+    "AimbotIA":        { "status": "OK" },
+    "SilentAim":       { "status": "OK" },
+    "AimbotMouse":     { "status": "OK" },
+    "AimbotMemory":    { "status": "OK" },
+    "RageV2":          { "status": "OK" },
+    "RageV3":          { "status": "OK" },
+    "RageV4":          { "status": "OK" },
+    "RageV5":          { "status": "OK" },
+    "Triggerbot":      { "status": "OK" },
+    "Assistence":      { "status": "OK" },
+    "Precision":       { "status": "OK" },
+
+    "NoRecoil":        { "status": "OK" },
+    "NoReload":        { "status": "OK" },
+    "InfiniteBullets": { "status": "OK" },
+    "FastMedkit":      { "status": "OK" },
+    "FastFire":        { "status": "OK" },
+    "RapidFire":       { "status": "OK" },
+    "Macros":          { "status": "OK" },
+    "DoubleGuns":      { "status": "OK" },
+    "FakeDamage":      { "status": "OK" },
+    "UltraChange":     { "status": "OK" },
+    "InfiniteSkyller": { "status": "OK" },
+
+    "PullEnemy":       { "status": "BAN", "msg": "Bajo investigacion por riesgo de deteccion" },
+    "PullMagnet":      { "status": "BAN", "msg": "Bajo investigacion por riesgo de deteccion" },
+    "MagnetPlayer":    { "status": "OK" },
+
+    "UpPlayer":        { "status": "OK" },
+    "UpPlayerY":       { "status": "OK" },
+    "UnderPlayer":     { "status": "OK" },
+    "FlyDown":         { "status": "OK" },
+    "Levitate":        { "status": "OK" },
+    "FlyMode":         { "status": "OK" },
+    "Movement360":     { "status": "OK" },
+    "PlayerMovie":     { "status": "OK" },
+
+    "TeleportBase":    { "status": "OK" },
+    "TeleportMark":    { "status": "OK" },
+    "TeleportMaps":    { "status": "OK" },
+    "TeleportZ":       { "status": "OK" },
+    "Telekill":        { "status": "RISK", "msg": "Funcion muy detectable, usar con extremo cuidado" },
+
+    "SpeedHack":       { "status": "OK" },
+    "SpeedHackX99":    { "status": "RISK", "msg": "Speed extremo, alto riesgo de log abuse" },
+    "SpeedMaykol":     { "status": "OK" },
+    "SpeedTemer":      { "status": "OK" },
+    "SpeedHackMax":    { "status": "OK" },
+
+    "CamaraUnder":     { "status": "OK" }
+  },
+  "logs": [],
+  "stats": { "online_users": 0, "last_update": "2026-05-12" }
+}
