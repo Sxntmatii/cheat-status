@@ -19,7 +19,7 @@
     "SilentAim":       { "status": "OK" },
     "AimbotMouse":     { "status": "OK" },
     "AimbotMemory":    { "status": "OK" },
-    "RageV2":          { "status": "OK" },
+    "RageV2":          { "status": "BAN" },
     "RageV3":          { "status": "OK" },
     "RageV4":          { "status": "OK" },
     "RageV5":          { "status": "OK" },
