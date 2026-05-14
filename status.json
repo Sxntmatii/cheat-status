@@ -10,7 +10,7 @@
   },
   "polling": { "interval_seconds": 60 },
   "motd": {
-    "text": "Sistema operativo. Pull, Magnet, Telekill y SpeedX99 bajo monitoreo.",
+    "text": "Sistema operativo. Pull, Magnet, Telekill y Speed bajo monitoreo.",
     "color": "warning",
     "dismissible": true
   },
@@ -20,7 +20,7 @@
     "AimbotMouse":     { "status": "OK" },
     "AimbotMemory":    { "status": "OK" },
     "RageV2":          { "status": "OK" },
-    "RageV3":          { "status": "BAN" },
+    "RageV3":          { "status": "BAN", "msg": "Bajo investigacion por riesgo de deteccion" },
     "RageV4":          { "status": "OK" },
     "RageV5":          { "status": "OK" },
     "Triggerbot":      { "status": "OK" },
@@ -58,7 +58,7 @@
     "TeleportZ":       { "status": "OK" },
     "Telekill":        { "status": "RISK", "msg": "Funcion muy detectable, usar con extremo cuidado" },
 
-    "SpeedHack":       { "status": "OK" },
+    "SpeedHack":       { "status": "RISK", "msg": "Speed extremo, alto riesgo de log abuse" },
     "SpeedHackX99":    { "status": "RISK", "msg": "Speed extremo, alto riesgo de log abuse" },
     "SpeedMaykol":     { "status": "OK" },
     "SpeedTemer":      { "status": "OK" },
