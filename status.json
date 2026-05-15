@@ -58,7 +58,7 @@
     "TeleportZ":       { "status": "OK" },
     "Telekill":        { "status": "RISK", "msg": "Funcion muy detectable, usar con extremo cuidado" },
 
-    "SpeedHack":       { "status": "RISK", "msg": "Speed extremo, alto riesgo de log abuse" },
+    "SpeedHack":       { "status": "OK" },
     "SpeedHackX99":    { "status": "RISK", "msg": "Speed extremo, alto riesgo de log abuse" },
     "SpeedMaykol":     { "status": "OK" },
     "SpeedTemer":      { "status": "OK" },
