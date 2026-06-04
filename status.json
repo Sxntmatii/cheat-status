@@ -10,10 +10,10 @@
 
     // ─── AIM (Tab 0) ─────────────────────────────────────── risk ──
     { "id": "SilentAim",    "es": "Aim Silencioso",      "en": "Silent Aim",          "tab": "aim", "risk": 1, "riskCond": "SelectedFreefire==0" },
-    { "id": "AimbotIA",     "es": "Aimbot IA",           "en": "Aimbot AI",           "tab": "aim", "risk": 1, "riskCond": "SelectedFreefire==0" },
+    { "id": "AimbotIA",     "es": "Aimbot IA",           "en": "Aimbot AI",           "tab": "aim", "risk": 1, "riskCond": "SelectedFreefire==2" },
     { "id": "AimbotHex",    "es": "Aimbot Memoria",      "en": "Memory Aimbot",       "tab": "aim", "risk": 0 },
-    { "id": "AimbotVis",    "es": "Aimbot Visible",      "en": "Aimbot Visible",      "tab": "aim", "risk": 0 },
-    { "id": "AimbotVisible","es": "Aimbot Visible",      "en": "Aimbot Visible",      "tab": "aim", "risk": 0 },
+    { "id": "AimbotVis",    "es": "Aimbot Visible",      "en": "Aimbot Visible",      "tab": "aim", "risk": 1 },
+    { "id": "AimbotVisible","es": "Aimbot Visible",      "en": "Aimbot Visible",      "tab": "aim", "risk": 1 },
     { "id": "RageV4",       "es": "Rage / Collider",     "en": "Rage / Collider",     "tab": "aim", "risk": 0 },
     { "id": "Triggerbot",   "es": "Triggerbot",          "en": "Triggerbot",          "tab": "aim", "risk": 0 },
     { "id": "NoRecoil",     "es": "Sin Retroceso",       "en": "No Recoil",           "tab": "aim", "risk": 0 },
@@ -77,7 +77,7 @@
     { "id": "UpPlayer",     "es": "Subir",               "en": "Up Player",           "tab": "mov", "risk": 2 },
     { "id": "UpPlayerY",    "es": "Subir Y",             "en": "Up Y",                "tab": "mov", "risk": 2 },
     { "id": "UnderPlayer",  "es": "Bajar",               "en": "Under",               "tab": "mov", "risk": 2 },
-    { "id": "PlayerMovie",  "es": "Player Movie",        "en": "Player Movie",        "tab": "mov", "risk": 0 },
+    { "id": "PlayerMovie",  "es": "Player Movie",        "en": "Player Movie",        "tab": "mov", "risk": 2 },
 
     // ─── LAGS (nivel de red — bajo riesgo) ───────────────── risk ──
     { "id": "FakeLag",       "es": "Fake Lag",           "en": "Fake Lag",            "tab": "lag", "risk": 0 },
