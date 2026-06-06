@@ -25,7 +25,7 @@
 
     // ─── WEAPONS (Tab 4 / Tab 5) ─────────────────────────── risk ──
     { "id": "SpeedX99",     "es": "Speed x99",           "en": "Speed x99",           "tab": "wpn", "risk": 2 },
-    { "id": "FakeDmg",      "es": "Dano Falso",          "en": "Fake Damage",         "tab": "wpn", "risk": 2 },
+    { "id": "FakeDmg",      "es": "Dano Falso",          "en": "Fake Damage",         "tab": "wpn", "risk": 0 },
     { "id": "SpeedFire",    "es": "Speed Fire",          "en": "Speed Fire",          "tab": "wpn", "risk": 0 },
     { "id": "FastFire",     "es": "Disparo Rapido",      "en": "Fast Fire",           "tab": "wpn", "risk": 0 },
     { "id": "RapidFire",    "es": "Rapid Fire",          "en": "Rapid Fire",          "tab": "wpn", "risk": 0 },
