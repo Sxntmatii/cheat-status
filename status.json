@@ -77,7 +77,7 @@
     { "id": "UpPlayer",     "es": "Subir",               "en": "Up Player",           "tab": "mov", "risk": 2 },
     { "id": "UpPlayerY",    "es": "Subir Y",             "en": "Up Y",                "tab": "mov", "risk": 2 },
     { "id": "UnderPlayer",  "es": "Bajar",               "en": "Under",               "tab": "mov", "risk": 2 },
-    { "id": "PlayerMovie",  "es": "Player Movie",        "en": "Player Movie",        "tab": "mov", "risk": 2 },
+    { "id": "PlayerMovie",  "es": "Player Movie",        "en": "Player Movie",        "tab": "mov", "risk": 0 },
 
     // ─── LAGS (nivel de red — bajo riesgo) ───────────────── risk ──
     { "id": "FakeLag",       "es": "Fake Lag",           "en": "Fake Lag",            "tab": "lag", "risk": 0 },
