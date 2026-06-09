@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "updated": "2026-06-08",
+  "knowledge_es": [
+    "[ERROR] Crash al logear: Verificar credenciales...",
+    "[FEATURE] Aimbot IA v2: Usa prediccion...",
+    "[SOLUCION] ESP sin nombres: Activar NickName en Tab 1"
+  ],
+  "knowledge_en": [
+    "[ERROR] Crash on login: Verify credentials...",
+    "[FEATURE] Aimbot IA v2: Uses prediction...",
+    "[FIX] ESP no names: Enable NickName in Tab 1"
+  ]
+}
